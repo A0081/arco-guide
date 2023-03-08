@@ -2,15 +2,15 @@
 layout: home
 
 hero:
-  name: Manjaro 
-  text: 人生苦短我用Manjaro.
-  tagline: 让Manjaro成为你的常用系统把！
+  name: ArcoLinux 
+  text: Arch & Arco Guide.
+  tagline: 从安装到配置，一网打尽。打造属于自己的系统
   image:
-    src: /logo.png
+    src: /arcolinux.png
     alt: VitePress
   actions:
     - theme: brand
-      text: 🍺Get Started
+      text: 🍺Quick Start
       link: /1
     - theme: alt
       text: 🍌 GitHub
