@@ -17,7 +17,7 @@ export default defineConfig({
       siteTitle: 'arcolinux',
       logo: '/logo.png',
       socialLinks: [
-        { icon: 'github', link: 'https://github.com/A0081' },//  这里要改为项目的github连接
+        { icon: 'github', link: 'https://github.com/A0081/arco-guide.git' },//  这里要改为项目的github连接
         // You can also add custom icons by passing SVG as string:
 
         // {
@@ -28,7 +28,7 @@ export default defineConfig({
         
       ],
       editLink: {
-        pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+        pattern: 'https://github.com/A0081/arco-guide/tree/main/docs/:path',
         text: 'Edit this page on GitHub'
 
       },
