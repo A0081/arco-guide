@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 🍺Quick Start
-      link: /1
+      link: /first
     - theme: alt
       text: 🍌 GitHub
       link: https://github.com/A0081/arco-guide
