@@ -24,6 +24,9 @@ export default defineConfig({
         //   icon: '<svg>...</svg>',
         //   link: '
         // }
+        //
+        // Or you can use an icon from a third-party library:
+        // 
         
         
       ],
