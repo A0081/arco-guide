@@ -14,7 +14,7 @@ hero:
       link: /1
     - theme: alt
       text: 🍌 GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/A0081/arco-guide
 
 features:
   - icon: 📖
