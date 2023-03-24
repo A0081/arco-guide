@@ -2,4 +2,4 @@
 
 ## Gnome
 
-![gnome](/gnome.jpg)
+![](/docs/public/gnome.jpg)
