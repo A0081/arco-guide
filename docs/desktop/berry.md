@@ -4,6 +4,8 @@
 
 ## 截图
 
+![img](/dwa1n2l1n8da1.png)
+
 ## 安装方法
 
 ```bash

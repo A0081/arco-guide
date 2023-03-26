@@ -12,7 +12,7 @@ Xfce的一些特点和功能包括：
 
 ## 截图
 
-![img](C:/Users/_0081/Desktop/arco-guide/docs/public/cco3ms9v43la1.png)
+![img](/cco3ms9v43la1.png)
 
 ## 安装方法
 
