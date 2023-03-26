@@ -46,8 +46,8 @@ export default defineConfig({
         {
           text: '桌面介绍',
           items: [
-            { text: 'Desktop', link: '/desktop/desktop' },
-            { text: 'TWM', link: '/twm/twm' },
+            { text: 'Desktop', link: '/desktop/' },
+            { text: 'TWM', link: '/desktop/twm/awesome' },
           ]
         },
         { text: '基础安装', link: '/install/' },
